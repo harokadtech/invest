@@ -1,0 +1,74 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ReadDesjHistExcel",
+            "request": "launch",
+            "mainClass": "com.harokad.ReadDesjHistExcel",
+            "projectName": "invest"
+        },
+        {
+            "type": "java",
+            "name": "GetYahooQuotes",
+            "request": "launch",
+            "mainClass": "com.harokad.GetYahooQuotes",
+            "projectName": "invest"
+        },
+        {
+            "type": "java",
+            "name": "Launch StockPriceExtractor",
+            "request": "launch",
+            "mainClass": "com.harokad.StockPriceExtractor",
+            "projectName": "invest",
+            "args": "1000 ^IXIC:10000.2:13000.3 INO-UN.TO:3.77:3.86 LSPD.TO:19.62:20.02:2.5 NVEI.TO:54.75:55.5:2.5 AMZN.NE:11.36:11.55  RNW.TO:11.81:12.01  GOOG.NE:15.92:16.12 LEV.TO:2.80:2.94  CTS.TO:4.06:4.17:2.5  TSLA.NE:16.90:17.3:2  SRU-UN.TO:26.40:26.75 SHOP.TO:57.85:59.61:2.5 FOOD.TO:0.56:0.61   AQN.TO:9.77:9.95  META.NE:9.68:9.96    ENB.TO:52.15:53.58  MSFT.NE:16.82:16.87 AAPL.NE:18.81:18.95  ORCL:74.00:78.82   "
+        },
+        {
+            "type": "java",
+            "name": "Launch DailyDesjTrades",
+            "request": "launch",
+            "mainClass": "com.harokad.DailyDesjTrades",
+            "projectName": "invest"
+        },
+        {
+            "type": "java",
+            "name": "Launch Project",
+            "request": "launch",
+            "mainClass": "pl.hofman.projectsGmailApi.Project",
+            "projectName": "invest"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadExcelDemo",
+            "request": "launch",
+            "mainClass": "com.harokad.ReadExcelDemo",
+            "projectName": "invest"
+        },
+        {
+            "type": "java",
+            "name": "Launch GmailInvestExtract",
+            "request": "launch",
+            "mainClass": "com.harokad.GmailInvestExtract",
+            "projectName": "invest",
+            "args": "1000 ^IXIC:10000.2:13000.3 INO-UN.TO:3.77:3.86 LSPD.TO:19.62:20.02:2.5 NVEI.TO:54.75:55.5:2.5 AMZN.NE:11.36:11.55  RNW.TO:11.71:11.96    GOOG.NE:15.92:16.12 LEV.TO:2.80:2.94  CTS.TO:4.06:4.17:2.5  TSLA.NE:16.90:17.3:2  SRU-UN.TO:26.40:26.75 SHOP.TO:57.85:59.61:2.5 FOOD.TO:0.56:0.61   AQN.TO:9.77:9.95  META.NE:9.68:9.96    ENB.TO:52.15:53.58  MSFT.NE:16.82:16.87 AAPL.NE:18.81:18.95  ORCL:74.00:78.82   "
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File  CTS.TO:6.32:9.45 AQN.TO:9.89:10.78 GLXY.TO:4.38:4.49  RNW.TO:16.6:16.85 LSPD:23.1:25.55 AP-UN.TO:23.1:25.55  RNW.TO:11.71:11.96    ENB.TO:52.85:53.58  META.NE:5.44:5.68  MSFT.NE:16.82:16.87 AAPL.NE:18.81:18.95 GOOG.NE:14.75:15.91   LAC.TO:27.39:29.58   LEV.TO:2.76:2.88  SRU-UN.TO:28.16:30.22 LAC.TO:23.85:24.58  DIR-UN.TO:11.34:11.51  MSFT.NE:16.82:16.87 AAPL.NE:18.81:18.95   ORCL:76.00:84.82   AAPL.NE:18.81:18.95 GOOG.NE:14.75:15.91   LEV.TO:2.76:2.88  ",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App  TSLA.NE:15.51:15.92:2 AQN.TO:11.53:11.78   PYPL.NE:4.81:4.95  RNW.TO:11.71:11.96  GOOG.NE:15.92:16.12 LEV.TO:2.80:2.94 MSFT.NE:16.82:16.87 AAPL.NE:18.81:18.95 AMZN.NE:11.36:11.55 SRU-UN.TO:28.16:30.22 LAC.TO:23.85:24.58  DIR-UN.TO:11.34:11.51 META.NE:9.68:9.96   ",
+            "request": "launch",
+            "mainClass": "com.harokad.KadStockApp",
+            "projectName": "invest",
+            "args": "2000 ^IXIC:10000.2:13000.3 INO-UN.TO:3.35:3.39 LSPD.TO:21.02:22.92:2.5  NWC.TO:32.37:32.82 LEV.TO:2.54:2.67 CTS.TO:3.2:3.29:2.5 NVEI.TO:36.16:38.02:2.5  SHOP.TO:85.98:87.65:2.5  FOOD.TO:0.48:0.54 HR-UN.TO:10.22:10.36  ENB.TO:52.05:53.58   ORCL:74.00:78.82 "
+        }
+    ]
+}
+
