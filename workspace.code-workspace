@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "invest",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"maven.view": "hierarchical",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}

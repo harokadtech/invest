@@ -1,0 +1,1910 @@
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: HR.UN
+Shares: 10  
+Average price: $10.29
+ Total cost: $102.90
+ Time: June 19, 2023 3:57 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Sell
+  Symbol: LSPD
+Shares: 10  
+Average price: $21.69
+ Total value: $216.90
+ Time: June 19, 2023 3:52 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Sell
+  Symbol: LSPD
+Shares: 10  
+Average price: $21.67
+ Total value: $216.70
+ Time: June 19, 2023 3:52 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 100  
+Average price: $3.43
+ Total value: $343.00
+ Time: June 19, 2023 3:13 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 60  
+Average price: $3.42
+ Total value: $205.20
+ Time: June 19, 2023 3:13 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Sell
+  Symbol: NWC
+Shares: 5  
+Average price: $32.80
+ Total value: $164.00
+ Time: June 19, 2023 10:46 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: CTS
+Shares: 200  
+Average price: $3.30
+ Total value: $659.00
+ Time: June 19, 2023 10:42 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: CTS
+Shares: 100  
+Average price: $3.29
+ Total value: $329.00
+ Time: June 19, 2023 10:42 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Sell
+  Symbol: NWC
+Shares: 3  
+Average price: $32.79
+ Total value: $98.37
+ Time: June 19, 2023 10:41 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: NWC
+Shares: 6  
+Average price: $32.74
+ Total cost: $196.44
+ Time: June 16, 2023 12:56 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Sell
+  Symbol: LSPD
+Shares: 10  
+Average price: $21.52
+ Total value: $215.20
+ Time: June 16, 2023 12:49 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Buy
+  Symbol: NWC
+Shares: 8  
+Average price: $32.75
+ Total cost: $262.00
+ Time: June 16, 2023 12:48 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: NWC
+Shares: 1  
+Average price: $32.79
+ Total cost: $32.79
+ Time: June 16, 2023 12:47 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: NWC
+Shares: 7  
+Average price: $32.81
+ Total cost: $229.67
+ Time: June 16, 2023 12:47 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Sell
+  Symbol: LSPD
+Shares: 10  
+Average price: $21.53
+ Total value: $215.30
+ Time: June 16, 2023 12:42 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: NWC
+Shares: 5  
+Average price: $32.92
+ Total cost: $164.60
+ Time: June 16, 2023 12:34 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: NWC
+Shares: 10  
+Average price: $32.93
+ Total cost: $329.30
+ Time: June 16, 2023 12:34 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 100  
+Average price: $3.37
+ Total value: $337.00
+ Time: June 16, 2023 12:32 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: NWC
+Shares: 10  
+Average price: $32.96
+ Total cost: $329.60
+ Time: June 16, 2023 12:24 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: NWC
+Shares: 5  
+Average price: $32.97
+ Total cost: $164.85
+ Time: June 16, 2023 12:22 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Sell
+  Symbol: NVEI
+Shares: 10  
+Average price: $38.50
+ Total value: $385.00
+ Time: June 16, 2023 12:21 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Sell
+  Symbol: NVEI
+Shares: 7  
+Average price: $38.48
+ Total value: $269.36
+ Time: June 16, 2023 12:21 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 80  
+Average price: $3.36
+ Total value: $268.80
+ Time: June 16, 2023 11:58 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Buy
+  Symbol: LEV
+Shares: 11  
+Average price: $2.66
+ Total cost: $29.26
+ Time: June 16, 2023 11:12 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 200  
+Average price: $3.36
+ Total value: $672.00
+ Time: June 16, 2023 11:03 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 17  
+Average price: $38.24
+ Total cost: $650.08
+ Time: June 16, 2023 11:03 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 10  
+Average price: $38.67
+ Total cost: $386.70
+ Time: June 16, 2023 10:19 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 5  
+Average price: $38.69
+ Total cost: $193.45
+ Time: June 16, 2023 10:19 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Sell
+  Symbol: CTS
+Shares: 100  
+Average price: $3.27
+ Total value: $326.50
+ Time: June 16, 2023 10:17 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Sell
+  Symbol: CTS
+Shares: 80  
+Average price: $3.26
+ Total value: $260.80
+ Time: June 16, 2023 10:17 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 17  
+Average price: $38.72
+ Total cost: $658.24
+ Time: June 16, 2023 10:15 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 4  
+Average price: $38.74
+ Total cost: $154.96
+ Time: June 16, 2023 10:15 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 15  
+Average price: $38.82
+ Total cost: $582.30
+ Time: June 16, 2023 10:15 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 2  
+Average price: $38.83
+ Total cost: $77.66
+ Time: June 16, 2023 10:14 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: CTS
+Shares: 100  
+Average price: $3.26
+ Total value: $326.00
+ Time: June 16, 2023 10:14 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: CTS
+Shares: 100  
+Average price: $3.25
+ Total value: $325.00
+ Time: June 16, 2023 10:14 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: CTS
+Shares: 200  
+Average price: $3.24
+ Total value: $648.00
+ Time: June 16, 2023 10:12 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 20  
+Average price: $38.78
+ Total cost: $775.60
+ Time: June 16, 2023 10:09 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Sell
+  Symbol: CTS
+Shares: 300  
+Average price: $3.22
+ Total value: $966.00
+ Time: June 16, 2023 10:09 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 10  
+Average price: $38.92
+ Total cost: $389.20
+ Time: June 16, 2023 10:06 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: LEV
+Shares: 102  
+Average price: $2.68
+ Total cost: $272.86
+ Time: June 16, 2023 10:02 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Sell
+  Symbol: CTS
+Shares: 207  
+Average price: $3.20
+ Total value: $662.40
+ Time: June 16, 2023 10:00 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 4  
+Average price: $39.20
+ Total cost: $156.80
+ Time: June 16, 2023 9:52 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 4  
+Average price: $39.20
+ Total cost: $156.80
+ Time: June 16, 2023 9:52 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 10  
+Average price: $39.25
+ Total cost: $392.50
+ Time: June 16, 2023 9:52 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 5  
+Average price: $39.30
+ Total cost: $196.50
+ Time: June 16, 2023 9:51 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 50  
+Average price: $3.30
+ Total value: $165.00
+ Time: June 16, 2023 9:50 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: CTS
+Shares: 100  
+Average price: $3.19
+ Total value: $319.00
+ Time: June 16, 2023 9:49 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: CTS
+Shares: 134  
+Average price: $3.18
+ Total value: $426.12
+ Time: June 16, 2023 9:49 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: NVEI
+Shares: 5  
+Average price: $39.74
+ Total cost: $198.70
+ Time: June 16, 2023 9:35 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: LEV
+Shares: 100  
+Average price: $2.69
+ Total cost: $269.00
+ Time: June 15, 2023 3:59 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: NWC
+Shares: 10  
+Average price: $32.91
+ Total cost: $329.10
+ Time: June 15, 2023 3:51 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Sell
+  Symbol: NVEI
+Shares: 20  
+Average price: $39.95
+ Total value: $799.00
+ Time: June 15, 2023 3:50 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: CTS
+Shares: 1  
+Average price: $3.13
+ Total cost: $3.13
+ Time: June 15, 2023 3:45 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: CTS
+Shares: 7  
+Average price: $3.13
+ Total cost: $21.91
+ Time: June 15, 2023 3:45 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: NWC
+Shares: 12  
+Average price: $33.00
+ Total cost: $396.00
+ Time: June 15, 2023 3:43 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: NWC
+Shares: 11  
+Average price: $33.06
+ Total cost: $363.66
+ Time: June 15, 2023 3:43 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: NWC
+Shares: 13  
+Average price: $33.06
+ Total cost: $429.78
+ Time: June 15, 2023 3:42 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Sell
+  Symbol: NVEI
+Shares: 20  
+Average price: $39.82
+ Total value: $796.40
+ Time: June 15, 2023 3:42 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: CTS
+Shares: 121  
+Average price: $3.13
+ Total cost: $378.23
+ Time: June 15, 2023 3:40 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Sell
+  Symbol: NVEI
+Shares: 20  
+Average price: $39.78
+ Total value: $795.60
+ Time: June 15, 2023 3:39 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: LEV
+Shares: 25  
+Average price: $2.68
+ Total cost: $67.00
+ Time: June 15, 2023 3:28 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 20  
+Average price: $3.29
+ Total value: $65.80
+ Time: June 15, 2023 3:17 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: LEV
+Shares: 57  
+Average price: $2.71
+ Total cost: $154.47
+ Time: June 15, 2023 2:13 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: LEV
+Shares: 78  
+Average price: $2.71
+ Total cost: $211.38
+ Time: June 15, 2023 2:03 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: LEV
+Shares: 100  
+Average price: $2.71
+ Total cost: $270.50
+ Time: June 15, 2023 2:02 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Sell
+  Symbol: LSPD
+Shares: 20  
+Average price: $21.26
+ Total value: $425.20
+ Time: June 15, 2023 1:57 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Sell
+  Symbol: LSPD
+Shares: 10  
+Average price: $21.25
+ Total value: $212.50
+ Time: June 15, 2023 1:57 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: LEV
+Shares: 5  
+Average price: $2.70
+ Total cost: $13.50
+ Time: June 15, 2023 1:33 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Buy
+  Symbol: LEV
+Shares: 2  
+Average price: $2.70
+ Total cost: $5.40
+ Time: June 15, 2023 1:32 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: LEV
+Shares: 7  
+Average price: $2.70
+ Total cost: $18.90
+ Time: June 15, 2023 1:32 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: CTS
+Shares: 9  
+Average price: $3.13
+ Total cost: $28.17
+ Time: June 15, 2023 1:23 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: NWC
+Shares: 2  
+Average price: $33.34
+ Total cost: $66.68
+ Time: June 15, 2023 12:58 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Buy
+  Symbol: NWC
+Shares: 6  
+Average price: $33.34
+ Total cost: $200.04
+ Time: June 15, 2023 12:58 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: NWC
+Shares: 10  
+Average price: $33.34
+ Total cost: $333.40
+ Time: June 15, 2023 12:57 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: TFSA
+Type: Limit Sell
+  Symbol: LSPD
+Shares: 10  
+Average price: $21.17
+ Total value: $211.70
+ Time: June 15, 2023 12:57 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Sell
+  Symbol: LSPD
+Shares: 20  
+Average price: $21.16
+ Total value: $423.20
+ Time: June 15, 2023 12:57 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Buy
+  Symbol: NWC
+Shares: 10  
+Average price: $33.38
+ Total cost: $333.80
+ Time: June 15, 2023 12:54 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: NWC
+Shares: 10  
+Average price: $33.38
+ Total cost: $333.80
+ Time: June 15, 2023 12:53 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Buy
+  Symbol: CTS
+Shares: 100  
+Average price: $3.14
+ Total cost: $313.50
+ Time: June 15, 2023 12:52 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: RRSP
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 200  
+Average price: $3.26
+ Total value: $652.00
+ Time: June 15, 2023 12:52 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 100  
+Average price: $3.26
+ Total value: $326.00
+ Time: June 15, 2023 12:51 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: NWC
+Shares: 9  
+Average price: $33.44
+ Total cost: $300.96
+ Time: June 15, 2023 12:48 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 100  
+Average price: $3.26
+ Total value: $326.00
+ Time: June 15, 2023 12:47 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: CTS
+Shares: 104  
+Average price: $3.14
+ Total cost: $326.06
+ Time: June 15, 2023 12:27 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: CTS
+Shares: 140  
+Average price: $3.14
+ Total cost: $439.10
+ Time: June 15, 2023 12:26 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 100  
+Average price: $3.25
+ Total value: $325.00
+ Time: June 15, 2023 12:25 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Sell
+  Symbol: LSPD
+Shares: 21  
+Average price: $21.17
+ Total value: $444.57
+ Time: June 15, 2023 12:25 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: LEV
+Shares: 60  
+Average price: $2.74
+ Total cost: $164.40
+ Time: June 15, 2023 12:06 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 50  
+Average price: $3.24
+ Total value: $162.00
+ Time: June 15, 2023 12:04 PM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: CTS
+Shares: 80  
+Average price: $3.15
+ Total cost: $252.00
+ Time: June 15, 2023 11:51 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: LEV
+Shares: 80  
+Average price: $2.74
+ Total cost: $219.20
+ Time: June 15, 2023 11:50 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 50  
+Average price: $3.22
+ Total value: $161.00
+ Time: June 15, 2023 11:49 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: CTS
+Shares: 66  
+Average price: $3.15
+ Total cost: $207.90
+ Time: June 15, 2023 11:19 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 100  
+Average price: $3.20
+ Total value: $320.00
+ Time: June 15, 2023 11:18 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: LSPD
+Shares: 9  
+Average price: $21.09
+ Total value: $189.81
+ Time: June 15, 2023 11:17 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: LEV
+Shares: 46  
+Average price: $2.75
+ Total cost: $126.50
+ Time: June 15, 2023 11:10 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: CTS
+Shares: 57  
+Average price: $3.16
+ Total cost: $180.12
+ Time: June 15, 2023 11:10 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 100  
+Average price: $3.19
+ Total value: $319.00
+ Time: June 15, 2023 11:07 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: LEV
+Shares: 59  
+Average price: $2.76
+ Total cost: $162.84
+ Time: June 15, 2023 11:07 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: CTS
+Shares: 50  
+Average price: $3.16
+ Total cost: $158.00
+ Time: June 15, 2023 10:59 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: CTS
+Shares: 100  
+Average price: $3.16
+ Total cost: $315.50
+ Time: June 15, 2023 10:58 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 200  
+Average price: $3.19
+ Total value: $638.00
+ Time: June 15, 2023 10:57 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: CTS
+Shares: 2  
+Average price: $3.18
+ Total cost: $6.36
+ Time: June 15, 2023 10:42 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: CTS
+Shares: 100  
+Average price: $3.18
+ Total cost: $317.50
+ Time: June 15, 2023 10:42 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 100  
+Average price: $3.19
+ Total value: $319.00
+ Time: June 15, 2023 10:39 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: LSPD
+Shares: 10  
+Average price: $20.93
+ Total cost: $209.30
+ Time: June 15, 2023 10:38 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: LSPD
+Shares: 5  
+Average price: $20.97
+ Total cost: $104.85
+ Time: June 15, 2023 10:36 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Sell
+  Symbol: INO.UN
+Shares: 100  
+Average price: $3.19
+ Total value: $319.00
+ Time: June 15, 2023 10:35 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: LSPD
+Shares: 4  
+Average price: $20.97
+ Total cost: $83.88
+ Time: June 15, 2023 10:34 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+KADER__Account: RRSP
+Type: Limit Buy
+  Symbol: LSPD
+Shares: 1  
+Average price: $21.02
+ Total cost: $21.02
+ Time: June 15, 2023 10:33 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: INO.UN
+Shares: 200  
+Average price: $3.17
+ Total cost: $634.00
+ Time: June 15, 2023 10:27 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: INO.UN
+Shares: 200  
+Average price: $3.17
+ Total cost: $634.00
+ Time: June 15, 2023 10:27 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+ANNA__Account: TFSA
+Type: Limit Buy
+  Symbol: INO.UN
+Shares: 206  
+Average price: $3.17
+ Total cost: $653.02
+ Time: June 15, 2023 10:25 AM EDT
+ (  )
+
+Learn more about order fulfillment ( https:###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NVEI
+Shares: 20
+Average price: $39.91
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: NVEI
+Shares: 30
+Average price: $39.99
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NWC
+Shares: 12
+Average price: $32.95
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: NVEI
+Shares: 10
+Average price: $39.90
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: NWC
+Shares: 12
+Average price: $33.00
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: NWC
+Shares: 6
+Average price: $33.08
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Vente
+Symbol: NVEI
+Shares: 5
+Average price: $39.81
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Vente
+Symbol: NVEI
+Shares: 10
+Average price: $39.85
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: LEV
+Shares: 5
+Average price: $2.68
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: TFSA
+Type: Limit Buy
+Symbol: LEV
+Shares: 4
+Average price: $2.71
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NWC
+Shares: 10
+Average price: $33.11
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NWC
+Shares: 10
+Average price: $33.11
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: NVEI
+Shares: 17
+Average price: $39.67
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: LEV
+Shares: 5
+Average price: $2.70
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: LEV
+Shares: 140
+Average price: $2.71
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: LEV
+Shares: 100
+Average price: $2.71
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 200
+Average price: $3.27
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: TFSA
+Type: Limit Buy
+Symbol: NWC
+Shares: 2
+Average price: $33.38
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: TFSA
+Type: Limit Vente
+Symbol: NVEI
+Shares: 2
+Average price: $39.48
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NWC
+Shares: 20
+Average price: $33.40
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 200
+Average price: $3.26
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NWC
+Shares: 9
+Average price: $33.63
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 100
+Average price: $3.22
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: LEV
+Shares: 55
+Average price: $2.74
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: LEV
+Shares: 14
+Average price: $2.74
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Vente
+Symbol: NVEI
+Shares: 1
+Average price: $39.13
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: NVEI
+Shares: 4
+Average price: $39.14
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: TFSA
+Type: Limit Buy
+Symbol: LEV
+Shares: 1
+Average price: $2.75
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: TFSA
+Type: Limit Buy
+Symbol: CTS
+Shares: 1
+Average price: $3.17
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: CTS
+Shares: 3
+Average price: $3.17
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: CTS
+Shares: 6
+Average price: $3.17
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: NVEI
+Shares: 1
+Average price: $38.68
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NVEI
+Shares: 1
+Average price: $38.69
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: INO.UN
+Shares: 100
+Average price: $3.17
+
+Total value: $0.0
+
+Time: June 15, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NVEI
+Shares: 1
+Average price: $38.41
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 200
+Average price: $3.37
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NWC
+Shares: 20
+Average price: $32.87
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 200
+Average price: $3.37
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NWC
+Shares: 10
+Average price: $33.08
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: NVEI
+Shares: 9
+Average price: $38.44
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NWC
+Shares: 10
+Average price: $33.08
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NVEI
+Shares: 1
+Average price: $38.38
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: CTS
+Shares: 1
+Average price: $3.22
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: LEV
+Shares: 7
+Average price: $2.66
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NVEI
+Shares: 8
+Average price: $38.20
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 100
+Average price: $3.36
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: NWC
+Shares: 10
+Average price: $33.31
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NVEI
+Shares: 3
+Average price: $38.63
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: NVEI
+Shares: 7
+Average price: $38.69
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: NVEI
+Shares: 10
+Average price: $38.68
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NVEI
+Shares: 15
+Average price: $38.69
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NWC
+Shares: 10
+Average price: $33.22
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: NWC
+Shares: 31
+Average price: $33.48
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Vente
+Symbol: NWC
+Shares: 8
+Average price: $33.48
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: LEV
+Shares: 99
+Average price: $2.67
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Vente
+Symbol: CTS
+Shares: 125
+Average price: $3.27
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: NVEI
+Shares: 10
+Average price: $38.68
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Vente
+Symbol: CTS
+Shares: 200
+Average price: $3.26
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: LEV
+Shares: 15
+Average price: $2.68
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Vente
+Symbol: NVEI
+Shares: 1
+Average price: $39.01
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: LEV
+Shares: 10
+Average price: $2.68
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: LEV
+Shares: 10
+Average price: $2.68
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: NVEI
+Shares: 1
+Average price: $38.88
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: NVEI
+Shares: 20
+Average price: $39.12
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: NVEI
+Shares: 20
+Average price: $39.21
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: NVEI
+Shares: 10
+Average price: $39.23
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NVEI
+Shares: 2
+Average price: $39.47
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Buy
+Symbol: NVEI
+Shares: 10
+Average price: $39.52
+
+Total value: $0.0
+
+Time: June 16, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 300
+Average price: $3.43
+
+Total value: $0.0
+
+Time: June 19, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 400
+Average price: $3.43
+
+Total value: $0.0
+
+Time: June 19, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 100
+Average price: $3.39
+
+Total value: $0.0
+
+Time: June 19, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 400
+Average price: $3.39
+
+Total value: $0.0
+
+Time: June 19, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 400
+Average price: $3.39
+
+Total value: $0.0
+
+Time: June 19, 2023 12:00 PM EDT
+###
+DESJ__Account: REEE
+Type: Limit Vente
+Symbol: INO.UN
+Shares: 100
+Average price: $3.40
+
+Total value: $0.0
+
+Time: June 19, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Buy
+Symbol: NWC
+Shares: 5
+Average price: $32.68
+
+Total value: $0.0
+
+Time: June 19, 2023 12:00 PM EDT
+###
+DESJ__Account: RRSP
+Type: Limit Vente
+Symbol: NWC
+Shares: 5
+Average price: $32.84
+
+Total value: $0.0
+
+Time: June 19, 2023 12:00 PM EDT
+###
+DESJ__Account: TFSA
+Type: Limit Vente
+Symbol: CTS
+Shares: 41
+Average price: $3.29
+
+Total value: $0.0
+
+Time: June 19, 2023 12:00 PM EDT
+###
